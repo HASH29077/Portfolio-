@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 // or to <username>.github.io (root), set base to '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/hash-portfolio/',
+  base: '/Portfolio-/',
 });
